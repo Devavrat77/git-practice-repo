@@ -1,2 +1,3 @@
 First line in the new file
 Second line in the new file
+Third line in the new file
